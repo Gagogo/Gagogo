@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel (username: Gagogo)</h1>
+<h1 align="center">Hi 👋, I'm Gabriel (Gagogo)</h1>
 <h3 align="center">A junior full stack developer</h3>
 
 - 🔭 I’m currently working at **Impact Chile**
